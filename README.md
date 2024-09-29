@@ -1,6 +1,6 @@
 #  💻React and TailwindCSS: A Ready-to-Use Starter Template
 
-This project is a **template** ready to use with React and TailwindCSS. It includes dark mode configurations, custom gradients, and a language toggle system.
+This project is a basic **template** ready to use with React and TailwindCSS. It includes dark mode configurations.
 
 ## 🔧 Prerequisites
 
@@ -78,11 +78,11 @@ The path module from Node.js is used to resolve absolute paths in the project, e
 
 **Light Mode:**
 
-![Light Mode](./assets/screenshots/light.png)
+![Light Mode](./src/assets/screenshots/light.png)
 
 **Dark Mode:**
 
-![Dark Mode](./assets/screenshots/dark.png)
+![Dark Mode](./src/assets/screenshots/dark.png)
 
 ### 🎉 That's all, folks!
 
